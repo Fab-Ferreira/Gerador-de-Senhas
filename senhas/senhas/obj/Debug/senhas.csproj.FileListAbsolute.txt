@@ -1,0 +1,8 @@
+C:\Users\fabri\OneDrive\Documentos\SharpDevelop Projects\senhas\senhas\bin\Debug\senhas.exe.config
+C:\Users\fabri\OneDrive\Documentos\SharpDevelop Projects\senhas\senhas\bin\Debug\senhas.exe
+C:\Users\fabri\OneDrive\Documentos\SharpDevelop Projects\senhas\senhas\bin\Debug\senhas.pdb
+C:\Users\fabri\OneDrive\Documentos\SharpDevelop Projects\senhas\senhas\obj\Debug\senhas.csprojResolveAssemblyReference.cache
+C:\Users\fabri\OneDrive\Documentos\SharpDevelop Projects\senhas\senhas\obj\Debug\senhas.MainForm.resources
+C:\Users\fabri\OneDrive\Documentos\SharpDevelop Projects\senhas\senhas\obj\Debug\senhas.csproj.GenerateResource.Cache
+C:\Users\fabri\OneDrive\Documentos\SharpDevelop Projects\senhas\senhas\obj\Debug\senhas.exe
+C:\Users\fabri\OneDrive\Documentos\SharpDevelop Projects\senhas\senhas\obj\Debug\senhas.pdb
