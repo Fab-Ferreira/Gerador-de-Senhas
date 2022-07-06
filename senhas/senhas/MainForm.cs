@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
 
+//Código feito por Fabrício Prudente Ferreira (Fab-Ferreira)
 namespace senhas
 {
 	public partial class MainForm : Form
@@ -13,9 +14,9 @@ namespace senhas
 		}
 		
 		//Variáveis
-		char[] alfaMai = {'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'},
-		alfaMin = {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'}, 
-		num = {'0', '1', '2', '3', '4', '5', '6', '7', '8', '9'}, espec = {'*', '!', '@', '#', '$', '&', '%', ';', ':', '.', ',', '-', '_', '?', '/'};
+		char[] alfaMai = {'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'};
+		char[] alfaMin = {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'};
+		char[] num = {'0', '1', '2', '3', '4', '5', '6', '7', '8', '9'}, espec = {'*', '!', '@', '#', '$', '&', '%', ';', ':', '.', ',', '-', '_', '?', '/'};
 		
 		int randomLetra, randomNumber, randomEspec, randomCheck;
 		string senhaResul;
